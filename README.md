@@ -25,15 +25,17 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 **Part IV: Evaluation**
 
 - [Lecture 8](08_eval-intro): Model Evaluation 1: Introduction to Overfitting and Underfitting
-- Model Evaluation and Uncertainty Estimates
-- Model Selection and Cross-Validation
-- Model Comparisons with Statistical Tests
-- Performance Metrics
+- [Lecture 9](09_eval-ci): Model Evaluation 2: Uncertainty Estimates and Resampling
+- [Lecture 10](10_eval-cv): Model Evaluation 3: Model Selection and Cross-Validation
+- [Lecture 11](11_eval-algo): Model Evaluation 4: Algorithm Selection and Statistical Tests
+- [Lecture 12](12_eval-metrics): Model Evaluation 5: Performance Metrics
 
 **Part V: Dimensionality Reduction**
 
-- Feature Selection
-- Feature Extraction
+- [Lecture 13](13_feat-sele): Feature Selection
+- [Lecture 14](14_feat-extract): Feature Extraction
+
+**Due to time constraints, the following topics could unfortunately not be covered:**
 
 **Part VI: Bayesian Learning** 
 
@@ -46,19 +48,24 @@ Lecture material for the Machine Learning course (STAT 479) at University Wiscon
 - Regression Analysis
 - Clustering
 
-**Part VIII: Artificial Neural Networks**
+**The following topics will be covered at the beginning of the
+Deep Learning class next Spring.** [Tentative outline of the DL course](./other/dl-course-info.md).
+
+**Part VIII: Introduction to Artificial Neural Networks**
 
 - Perceptron
 - Adaline & Logistic Regression
 - SVM
 - Multilayer Perceptron
 
-**Part IX: Deep Learning**   
-
-- Intro to TensorFlow, PyTorch  
-- Convolutional Neural Networks
-- Recurrent Neural Networks
-- Training Neural Nets: "Tricks of the Trade"
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+
+<br>
+<br>
+<br>
+
+Teaching this class was a pleasure, and I am especially happy about how awesome the class projects turned out. Listed below are the winners of the three award categories as determined by ~210 votes. Congratulations! 
+
+![](other/stat479-fs18-awards.jpg)
